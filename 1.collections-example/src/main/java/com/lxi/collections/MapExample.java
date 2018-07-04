@@ -22,7 +22,7 @@ public class MapExample {
 		users.put("2", new User("Jibin", "Pooppillikudiyil", 31));
 		users.put("3", new User("Robin", "Pooppillikudiyil", 24));
 		users.put("4", new User("Thomas", "Pooppillikudiyil", 65));
-		users.put("4", new User("Lizy", "Pooppillikudiyil", 54));
+		users.put("5", new User("Lizy", "Pooppillikudiyil", 54));
 	}
 
 	private void printMapNewWay() {
