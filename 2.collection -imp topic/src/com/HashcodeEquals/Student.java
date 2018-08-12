@@ -1,5 +1,9 @@
 package com.HashcodeEquals;
 
+/**
+* @author Robin-Pooppillikudiyil
+* @version 1.0
+*/
 public class Student {
 
 	private int id;
@@ -31,7 +35,7 @@ public class Student {
 	
 	/**
 	 * 
-	 * computer generated hashCode() and equal() method
+	 * eclipse generated hashCode() and equal() method
 	 */
 
 	/*@Override
