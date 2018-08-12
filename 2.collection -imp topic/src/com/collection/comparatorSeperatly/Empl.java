@@ -1,5 +1,9 @@
 package com.collection.comparatorSeperatly;
 
+/**
+* @author Robin-Pooppillikudiyil
+* @version 1.0
+*/
 public class Empl {
 
 	private String name;
