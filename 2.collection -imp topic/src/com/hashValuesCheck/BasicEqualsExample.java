@@ -1,5 +1,8 @@
 package com.hashValuesCheck;
-
+/**
+* @author Robin-Pooppillikudiyil
+* @version 1.0
+*/
 public class BasicEqualsExample {
 
 	public static void main(String[] args) {
