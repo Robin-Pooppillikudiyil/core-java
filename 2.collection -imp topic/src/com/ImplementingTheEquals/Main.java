@@ -1,5 +1,9 @@
 package com.ImplementingTheEquals;
 
+/**
+* @author Robin-Pooppillikudiyil
+* @version 1.0
+*/
 public class Main {
 	public static void main(String[] args) {
 		Vehicle myCar = new Vehicle("Focus", 2002, "Ford");
