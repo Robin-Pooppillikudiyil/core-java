@@ -1,7 +1,10 @@
 package com.HashcodeEquals;
 
 import java.util.HashSet;
-
+/**
+* @author Robin-Pooppillikudiyil
+* @version 1.0
+*/
 public class HashcodeEquals {
 	public static void main(String[] args) {
 	
